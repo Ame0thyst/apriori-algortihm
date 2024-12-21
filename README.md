@@ -19,19 +19,19 @@ Sistem manajemen toko harian sederhana dengan fitur analisis pola pembelian meng
    # Pastikan XAMPP sudah terinstall
    # Clone repository ini ke folder htdocs
    cd C:/xampp/htdocs
-   git clone https://github.com/username/toko-harian.git
+   git clone https://github.com/Ame0thyst/apriori-algortihm.git
    cd toko-harian
    ```
 
 2. **Setup Database**
 
    - Start Apache dan MySQL di XAMPP
-   - Buka browser dan akses: `http://localhost/toko-harian/database/migration.php`
+   - Buka browser dan akses: `http://localhost/apriori-algortihm/database/migration.php`
    - Tunggu proses migrasi selesai
 
 3. **Akses Aplikasi**
    - Buka browser
-   - Akses: `http://localhost/toko-harian`
+   - Akses: `http://localhost/apriori-algortihm`
 
 ## 💡 Cara Kerja Algoritma Apriori
 
@@ -171,4 +171,4 @@ Kontribusi selalu welcome! Silakan buat pull request atau laporkan issues.
 
 ---
 
-⌨️ dengan ❤️ oleh [Cindy Fanderella Teams ](https://github.com/cindyfanderella)
+⌨️ Developed dengan ❤️ oleh [Cindy Fanderella Teams ](https://github.com/cindyfanderella)
