@@ -19,7 +19,7 @@ if (isset($_GET['export']) && $_GET['export'] == 'excel') {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Laporan - Toko Harian</title>
+    <title>Dashboard - Pasar Coffee 🍵</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
     <?php if (!isset($_GET['export'])): ?>
         <style>
@@ -41,7 +41,7 @@ if (isset($_GET['export']) && $_GET['export'] == 'excel') {
         <!-- Navbar -->
         <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
             <div class="container">
-                <a class="navbar-brand" href="index.php">Toko Harian</a>
+                <a class="navbar-brand" href="index.php">Pasar Coffee 🍵</a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
                     <span class="navbar-toggler-icon"></span>
                 </button>
