@@ -171,4 +171,4 @@ Kontribusi selalu welcome! Silakan buat pull request atau laporkan issues.
 
 ---
 
-⌨️ Developed dengan ❤️ oleh [Cindy Fanderella Teams ](https://github.com/cindyfanderella)
+⌨️ Developed dengan ❤️ oleh TIM
